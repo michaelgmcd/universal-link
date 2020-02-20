@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lifion.mobile.int",
+      "sha256_cert_fingerprints": [
+        "28:F7:48:C1:94:3E:41:3F:59:3A:44:B1:8D:E6:A3:06:61:3A:D8:40:5A:C1:D4:EE:9E:76:16:95:C8:F3:63:02"
+      ]
+    }
+  }
+]

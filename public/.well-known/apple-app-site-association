@@ -5,10 +5,18 @@
       {
         "appID": "LP9C4KNVXY.com.lifion.mobile.int",
         "paths": ["/view/*"]
+      },
+      {
+        "appID": "LP9C4KNVXY.com.lifion.mobile.appbuild",
+        "paths": ["/view/*"]
+      },
+      {
+        "appID": "LP9C4KNVXY.com.lifion.mobile.uat",
+        "paths": ["/view/*"]
       }
     ]
   },
   "webcredentials": {
-    "apps": ["LP9C4KNVXY.com.lifion.mobile.int"]
+    "apps": ["LP9C4KNVXY.com.lifion.mobile.int", "LP9C4KNVXY.com.lifion.mobile.appbuild", "LP9C4KNVXY.com.lifion.mobile.uat"]
   }
 }
